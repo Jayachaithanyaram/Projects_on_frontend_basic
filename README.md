@@ -1,0 +1,1 @@
+A demo frontend project that i have created 4 different web pages like netflix ui , demo profile, demo portfolio,demo resume , that i have connected all through a nav bar with the options where the user gets the webpage as per the option he selectss in the nav bar, it is just a frontend project with minimal code i developed as i am a beginner.
